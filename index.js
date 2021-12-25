@@ -18,7 +18,7 @@ const client = new google.auth.JWT(
 );
 
 
-// ANTHOLOGY UPCOMING SHOWS CALENDAR DATA
+// ANTHOLOGY UPCOMING SHOWS DATA
 axios('https://www.anthologylive.com/')
     .then(response => {
         const anthologyData = response.data;
@@ -99,5 +99,7 @@ axios('https://www.anthologylive.com/')
         }
     })
     .catch(err => console.log(`There was an error fetching data: ${err}`));
+
+    // BUG JAR UPCOMING SHOWS DATA
 
 app.listen(PORT, () => { console.log(`Magic happening on port ${PORT}`); });
