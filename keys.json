@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "the-sound-scraper",
+    "private_key_id": "b6c038a061afb0b3a132c9bd5cd10df75c41eddc",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpqdfBnI4DbDtV\nq5xDyUSOo23y0sLe5asaUrC8QbQT3dCJvDJLicGt4HnJdi1T2cu69NxJA2Bf+H1b\nVSmleoEdr3W8eJ2FyqbePeZaOAuCnM39LQwb73tXd11e/Ir09Gdot5Qaa0Bli1ZD\nX88dpiPUNpfHG3LvM2l/Vj9+gYToH64nfiokclXGHjtH4EeL1dWXHGScxzWbuy+V\nFlJCBDIuV2lRxlUp/4GgAd6dSM4ToXm4QXKbnvM4Zl/RHy1goHCbg/fOqBlQ+mek\nJJLQ3JKBOv0xcrndkhJqKhKzKNpbV6M5LKHrno2Krx7tUnyrRV3/yDfc5GedwBuz\n/VjcCfA5AgMBAAECggEAAio89AKrIK5W4llDr8icRw/4iKGQcVBGqvVSmSs+nCpJ\n387tjV9/NqGnh57hATHFblWX2OD0Jrw3lm8O6djODrKhoI3GCWIrMvI8aEQHY9uS\nqw3SGpgC38VtTinZHTsW40ro+3nkmeceIdMa330gGsaR2dICa3OPEe5V0ae6l98a\nSJOKXef7rIfQOv1GdrmpEcyMG2BTGGayTrQ+ALzwvzvHRWFsXN2Wd+GbHyLxPpIx\nySs/q1gxLy2bWeLuGyhBnPZjMu4/AGkbfJmD6pQnx8MAQu7XyR/TfV+YG0zODW7m\n10NSOPw6Tz4NGAhPdaV4gGJi8ZOm7bRp9scY7I5lAQKBgQDh/AwyuUfnu/i/04xJ\nWTmi0rTRuGCRQ/POzJkVafjAg8gsI4FDPPcO5LMUrw4vLkGeIFJuWfAVvF2tbKks\nQ6xpebw1Mu57eo13k6mGeVE2FzO39y0v/kRSWex5puqvyDBPoUGpAjggfRyu878A\nqUrmcS08Ip4olB1LXXKPltfukQKBgQDAMsIkdK3s9symlvB0RUn1tadGTJxJVesb\nnBC+bJ2TMsBTTbfl7oj1TKVrKEisQGs0vJz7xCFz762pifu8QQ0n6CSYT4p+2aDV\nenCR3fNq9UpYqg8uDDPvoAukO0fPdFZiaVa1H2akUOT8UztNwPjY8jb1REgEBebJ\nEFXgNCyLKQKBgEvhjF8D4+cmMRKIgFSoxzerNNgu5w4gGR/Zh5WvLb3HAlH/4gmn\n0PWJSbCqT0L8b0Afbk5rmLhTtcjj8bJRTvVj0RSz82w27IW4aXYkCmb1R4KAVwYE\nhQB5/XOj3q4DtGUoqpmLizktiZIdeodIUUQrwJqurRjHE0cZK7yXVA5hAoGASZ8n\n3u8S8IJZQjbvRJqGCijbOoJ+G1leBeVyRH82nPwDz+UlXF5S+COz+agkrla+uiTF\nvWsTpWVaEGdalnIUqAS0f+N4Gb8jbKLKHBX4+C+dmvkJd4oVGuUjkHVkvILD1E6l\neBvfJXIXRNBdFxukNvYRN0JAk8nu7XXkb02NAoECgYBH1XGRyfKuLVDe2ifYxDjR\n1PtIabtqTp9eyLgpZbMs6wnYmS2L+PHJ3FkJ0Tzuw0rOxqQo6dtMVsj0exyYFEp3\npBbF7em9DEOv+ckdWRxE8mfIWab06jGlpF0sU55d1TjSA4oewHruRGcBsQYNfUM3\n1ambvRK2lyhOVQuGGH6OAA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "sound-scraper-service-account@the-sound-scraper.iam.gserviceaccount.com",
+    "client_id": "109825170022753536250",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sound-scraper-service-account%40the-sound-scraper.iam.gserviceaccount.com"
+  }
